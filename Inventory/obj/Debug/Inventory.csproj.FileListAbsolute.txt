@@ -1,0 +1,14 @@
+C:\Users\andrea\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\andrea\source\repos\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\andrea\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\andrea\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\andrea\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\andrea\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\andrea\source\repos\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\andrea\source\repos\Inventory\Inventory\obj\Debug\Inventory.DashboardForm.resources
+C:\Users\andrea\source\repos\Inventory\Inventory\obj\Debug\Inventory.SignInForm.resources
+C:\Users\andrea\source\repos\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\andrea\source\repos\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\andrea\source\repos\Inventory\Inventory\obj\Debug\InventoryManagementSystem.RegisterForm.resources
+C:\Users\andrea\source\repos\Inventory\Inventory\obj\Debug\Interop.ADOX.dll
+C:\Users\andrea\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.ResolveComReference.cache
